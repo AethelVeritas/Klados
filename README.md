@@ -1,10 +1,10 @@
-![pic1](images/pic_2.png)
+![Top view](images/pic_1.png)
 
 # Klados
 *'klados' - Greek for branch, offshoot*  
 Like a branch from a tree, this macropad is designed to be an extension of your keyboard.  
 This is version two of my macropad, made for [Hackpad](https://hackpad.hackclub.com) and now redesigned for [Reboot](https://reboot.hackclub.com).  
-See the initial version [here](https://github.com/AethelVeritas/hackpad/tree/main/hackpadsOne%20Pad%20To%20Rule%20Them%20All).
+See the initial version [here](https://github.com/AethelVeritas/hackpad/tree/main/hackpads/One%20Pad%20To%20Rule%20Them%20All).
 
 <!-- Hack Club Badge -->
 <a href="https://hackpad.hackclub.com/">
@@ -14,7 +14,8 @@ See the initial version [here](https://github.com/AethelVeritas/hackpad/tree/mai
 ---
 
 # Gallery
-![Top view](images/pic_1.png)
+![pic1](images/pic_2.png)
+
 ![Side view animation](images/sideview_animation.gif)
 ![360° view](images/air_360.gif)
 

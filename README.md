@@ -8,7 +8,7 @@ This is version two of my macropad, made for [Hackpad](hackpad.hackclub.com) and
   
 # Gallery
 ![pic1](images/pic_2.png)   
-![video1](https://github.com/AethelVeritas/Klados/blob/main/images/sideview_animation.mp4)  
+![video1](images/air_360.gif)
 ![video2](images/air_360.mp4)  
 
 # BOM

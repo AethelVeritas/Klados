@@ -1,16 +1,16 @@
-![pic2](images/pic_1.png)
-
+![pic1](images/pic_2.png)   
+  
 # Klados  
 *'klados' - Greek for branch, offshoot*  
 Like a branch from a tree, this macropad is designed to be an extension of your keyboard. 
 This is version two of my macropad, made for [Hackpad](hackpad.hackclub.com) and now redesigned for [Reboot](reboot.hackclub.com). See the initial version [here](https://github.com/AethelVeritas/hackpad/tree/main/hackpadsOne%20Pad%20To%20Rule%20Them%20All).
-
+  
   
 # Gallery
-![pic1](images/pic_2.png)   
+![pic2](images/pic_1.png)
+![video1](images/sideview_animation.gif)
 ![video1](images/air_360.gif)
-![video2](images/air_360.mp4)  
-
+  
 # BOM
 - 1 PCB
 - Printed top half 

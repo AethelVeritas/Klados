@@ -1,14 +1,19 @@
 # Klados
-*'klados' - Greek for branch, offshoot*
-Like a branch, this macropad is designed to be an extension of your keyboard. 
+*'klados' - Greek for branch, offshoot*  
+Like a branch from a tree, this macropad is designed to be an extension of your keyboard. 
+This is version two of my macropad, made for [Hackpad](hackpad.hackclub.com) and now redesigned for [Reboot](reboot.hackclub.com). See the initial version [here](https://github.com/AethelVeritas/hackpad/tree/main/hackpadsOne%20Pad%20To%20Rule%20Them%20All).
+![pic1](images/pic_2.png)
+![pic2](images/pic_2.png)
 
+# BOM
+- 1 PCB
+- Printed top half 
+- Printed bottom plate
+- 4 x M3 x 15 mm flat head screws
+- 12 x MX compatible keycaps
+- 1 EC11 encoder knob
 
-<a href="https://creativecommons.org/licenses/by-nc/4.0/">
-  <img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png"
-       alt="Creative Commons Attribution-NonCommercial 4.0 International License">
-</a>
-
-[![Creative Commons License](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/) [![Funded by Hack Club](https://img.shields.io/badge/Hack_Club-Funded-ec3750?style=for-the-badge&logo=hackclub&logoColor=ec3750)](https://hackclub.com/highway)
+[![Creative Commons License](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/) [![Funded by Hack Club](https://img.shields.io/badge/Hack_Club-Funded-ec3750?style=for-the-badge&logo=hackclub&logoColor=ec3750)](https://hackpad.hackclub.com/)
 
 
 

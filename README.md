@@ -18,7 +18,6 @@ See the initial version [here](https://github.com/AethelVeritas/hackpad/tree/mai
 ![Side view animation](images/sideview_animation.gif)
 ![360° view](images/air_360.gif)
 
----
 
 # BOM
 - 1 x Seeed Xiao RP2040 MCU
@@ -34,3 +33,6 @@ See the initial version [here](https://github.com/AethelVeritas/hackpad/tree/mai
 - 1 x Printed bottom plate 
 - 1 x Encoder knob 
 
+# License
+
+Klados is licensed under CERN-OHL-P-2.0.

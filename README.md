@@ -18,6 +18,9 @@ See the initial version [here](https://github.com/AethelVeritas/hackpad/tree/mai
 
 ![Side view animation](images/sideview_animation.gif)
 ![360° view](images/air_360.gif)
+![Real pic](images/pic_4.jpg)
+![Real pic OLED](images/pic_3)
+![Real pic side view](images/pic_5.jpg)
 
 
 # BOM
